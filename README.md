@@ -21,7 +21,7 @@ No installs, identical environment on every Chromebook, kids just need a browser
 ## Per-Chromebook, per-kid (first login, ~2 minutes each)
 
 1. Log into their Google account in Chrome.
-2. Open the link you gave them.
+2. Open the link you gave them. (https://colab.research.google.com/drive/1OZfH-tDU97clqr8tP7Qxt8BlLadUfFzZ)
 3. First time they edit a cell, click "Save a copy in Drive" when prompted (or do it themselves via File menu). Now it's theirs.
 4. Rename the copy with their name so you can find it later: File → Rename.
 
